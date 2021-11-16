@@ -1,0 +1,5 @@
+{
+    "invalid_csv_file": "data/bad_data.txt",
+    "valid_csv_file": "data/data.csv",
+    "flask_url": "http://127.0.0.1:5000"
+}
